@@ -1,2 +1,2 @@
 # yarc-official.github.io
-GitHub pages website. This is not the source code for yarg.in.
+GitHub pages website. This is not the source code for YARG's official website, [yarg.in](https://yarg.in). This purely exists to allow generation of GitHub pages for other repos.
